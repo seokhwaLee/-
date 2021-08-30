@@ -1,0 +1,2 @@
+차종 분류 : Best_model_car_efficient_b4_ver02_25.ph
+파손부위인식 : Determination_damage.pth
